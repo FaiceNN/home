@@ -1,0 +1,38 @@
+table,th,td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin-bottom: ; 5%;
+}
+
+th,td
+{
+	border-color: black;
+}
+
+body
+{
+	background-image : url('old-paper.jpeg') ;
+	font-family: ariel;
+	color: black;
+	font-size: 15pt;
+}
+
+caption
+{
+	font-size:32pt;
+	font-family: verdana;
+}
+
+h1
+{
+	text-align : center ; 
+	font-variant : small-caps ;
+	font-family : fantasy ; 
+	font-size : 50pt ;
+}
+
+a /* Adjusting color of anchors to theme of page*/
+{
+	color: blue;
+}
