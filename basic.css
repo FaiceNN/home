@@ -41,9 +41,9 @@ ol
 img
 {
 	padding : 7%
-	border-color: black ;
+	;border-color: black ;
 	border-width : medium;
-    border-style : solid;
+	border-style : solid;
 	margin : 2%	
 }
 
@@ -51,33 +51,3 @@ h2,h3
 {
 	font-family: verdana ;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
