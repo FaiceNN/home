@@ -47,6 +47,7 @@ img /* this rule applied to all images*/
 h1,h2
 {
 	color : purple ;
+}
 
 
 a /* This rule makes all the links brown.*/
