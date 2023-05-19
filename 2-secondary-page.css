@@ -40,7 +40,7 @@ img /* this rule applied to all images*/
 	padding : 5%;
 	border-color: black ;
 	border-width : medium;
-    border-style : solid;
+  	border-style : solid;
 	margin : 2%;	
 }
 
