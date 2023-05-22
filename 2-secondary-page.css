@@ -64,3 +64,16 @@ a /* This rule makes all the links brown.*/
 {
 	color: black;
 }
+
+.video
+{
+	border-color: black;
+	border-width: medium;
+	border-style:solid;
+	padding:0.2%;
+	margin-bottom:2%;
+	margin-left:40%;
+}
+		
+	
+		
