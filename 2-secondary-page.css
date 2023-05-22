@@ -44,7 +44,12 @@ img /* this rule applied to all images*/
 	margin : 2%;	
 }
 
-h1,h2
+h1
+{
+	color : black;
+}
+
+h2
 {
 	color : purple ;
 }
