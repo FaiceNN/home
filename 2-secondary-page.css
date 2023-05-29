@@ -63,6 +63,7 @@ a /* This rule makes all the links brown.*/
 .container{
 	width: 500px ;
 	height: 281px ;	
+	margin-bottom: 10%;
 }
 
 #Top 
